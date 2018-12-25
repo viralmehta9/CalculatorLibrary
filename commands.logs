@@ -1,0 +1,13 @@
+flake8
+flake
+pip list
+pip install flake8
+cd C:\Users\mehta\LocalGitRepo\CalculatorLibrary
+plake8 calculator.py
+flake8 calculator.py
+flake8 --statistics
+pytest -v --cov
+pip install pytest
+pip install pytest-cov
+pytest -v --cov
+doskey /history > commands.logs
